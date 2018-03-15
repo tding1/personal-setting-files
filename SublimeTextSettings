@@ -1,0 +1,15 @@
+{
+	"caret_extra_width": 7,
+	"color_scheme": "Packages/Theme - Freesia/Triplet.tmTheme",
+	"font_size": 13,
+	"highlight_line": true,
+	"bold_folder_labels": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"scroll_past_end": true,
+	"theme": "Freesia.sublime-theme"
+}
