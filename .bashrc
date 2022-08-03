@@ -2,7 +2,6 @@
 
 alias clc="clear"
 alias jlab="jupyter lab --no-browser --ip='*'"
-alias cpy="conda activate pytorch"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
